@@ -72,3 +72,11 @@ A lógica e estrutura visual foram baseadas nos ensinamentos do canal
 1. Clone este repositório:
 ```bash
 git clone https://github.com/seu-usuario/jogo-da-velha.git
+```
+
+---
+
+> **IFTM - Instituto Federal do Triângulo Mineiro**  
+> **Curso:** Análise e Desenvolvimento de Sistemas  
+> **Disciplina:** Programação para Dispositivos Móveis  
+> **Período:** 6º Semestre
