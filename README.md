@@ -71,7 +71,7 @@ A lógica e estrutura visual foram baseadas nos ensinamentos do canal
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seu-usuario/jogo-da-velha.git
+git clone https://github.com/Luskinha04/jogo-da-velha.git
 ```
 
 ---
